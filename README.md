@@ -1,2 +1,2 @@
 # python-tips-and-tricks
-some python snippets and jupyter notebook
+some python snippets and jupyter notebooks
