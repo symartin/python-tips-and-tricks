@@ -1,6 +1,4 @@
 #
-# This file is part of the PyInstru package,
-#
 # Copyright (c) 2023 Sylvain Martin
 #
 # This program is free software: you can redistribute it and/or modify
