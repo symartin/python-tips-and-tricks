@@ -1,6 +1,4 @@
 #
-# This file is part of the PyInstru package,
-#
 # Copyright (c) 2023 Sylvain Martin
 #
 # This program is free software: you can redistribute it and/or modify
@@ -34,6 +32,7 @@ Requirements:
     - pyzmq
     - pyqt5
 """
+__all__ = ['ZMQError', 'ZMQTimeout', 'ZMQClient', 'ZMQServer']
 
 import zmq
 from PyQt5 import QtCore

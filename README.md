@@ -1,18 +1,19 @@
 # Python tips and tricks
 
-[![GitHub license](https://img.shields.io/github/license/symartin/PyInstru.svg)](https://raw.githubusercontent.com/symartin/PyInstru/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/symartin/python-tips-and-tricks.svg)](https://raw.githubusercontent.com/symartin/python-tips-and-tricks/master/LICENSE)
 
 ## Description
-[![GitHub license](https://img.shields.io/badge/Made_with_♥️_in_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/symartin/PyInstru)
+![GitHub license](https://img.shields.io/badge/Made_with_♥️_in_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Some python snippets/example and jupyter notebooks I made over the time that 
+Some python snippets/examples and jupyter notebooks I made over the time that 
 could be useful (hopefully) to someone 😀.
 
 ### PyQt5
 Generic QWidget and QObject.
 
-- **pyqt_zmq_server.py**: Simple Qt objects to bridge Qt and ZMQ in the case of a request-reply pattern
+- **zmq_server**: Simple Qt objects to bridge Qt and ZMQ in the case of a request-reply pattern
 (REQ/REP):
+- **icons**: Utility class to create QIcons easily from a library of icons
 
 ### Utilities
 - **flattenable_dict.py**: Subclass of the dict class to allow a dictionary to be flattened and

@@ -1,0 +1,99 @@
+<!--
+
+ Copyright (c) 2023 Sylvain Martin
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, version 3.
+
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ -->
+<RCC>
+
+	<qresource prefix="/icons">
+		<file>./app/collapse_16px.png</file>
+		<file>./app/collapse_24px.png</file>
+		<file>./app/collapse_32px.png</file>
+
+		<file>./app/expand_16px.png</file>
+		<file>./app/expand_24px.png</file>
+		<file>./app/expand_32px.png</file>
+	</qresource>
+
+	<qresource prefix="/icons">
+		<file>./edit/paste_16px.png</file>
+		<file>./edit/paste_24px.png</file>
+		<file>./edit/paste_32px.png</file>
+
+		<file>./edit/copy_16px.png</file>
+		<file>./edit/copy_24px.png</file>
+		<file>./edit/copy_32px.png</file>
+	</qresource>
+
+	<qresource prefix="/icons">
+		<file>./file/load_file_16px.png</file>
+		<file>./file/load_file_24px.png</file>
+		<file>./file/load_file_32px.png</file>
+
+		<file>./file/save_file_16px.png</file>
+		<file>./file/save_file_24px.png</file>
+
+		<file>./file/save_file_as_16px.png</file>
+		<file>./file/save_file_as_24px.png</file>
+		<file>./file/save_file_as_32px.png</file>
+
+		<file>./file/save_in_folder_16px.png</file>
+		<file>./file/save_in_folder_24px.png</file>
+		<file>./file/save_in_folder_32px.png</file>
+
+		<file>./file/settings_file_16px.png</file>
+		<file>./file/settings_file_24px.png</file>
+		<file>./file/settings_file_32px.png</file>
+
+		<file>./file/new_16px.png</file>
+		<file>./file/new_24px.png</file>
+		<file>./file/new_32px.png</file>
+
+		<file>./file/open_16px.png</file>
+		<file>./file/open_32px.png</file>
+		<file>./file/open_32px.png</file>
+
+		<file>./file/save_16px.png</file>
+		<file>./file/save_24px.png</file>
+		<file>./file/save_32px.png</file>
+	</qresource>
+
+	<qresource prefix="/icons">
+		<file>./folder/refresh_16px.png</file>
+		<file>./folder/refresh_24px.png</file>
+		<file>./folder/refresh_32px.png</file>
+
+		<file>./folder/root_folder_16px.png</file>
+		<file>./folder/root_folder_24px.png</file>
+		<file>./folder/root_folder_32px.png</file>
+
+		<file>./folder/explorer_16px.png</file>
+		<file>./folder/explorer_24px.png</file>
+		<file>./folder/explorer_32px.png</file>
+
+		<file>./folder/folder_16px.png</file>
+		<file>./folder/folder_24px.png</file>
+		<file>./folder/folder_32px.png</file>
+	</qresource>
+
+	<qresource prefix="/icons">
+		<file>./misc/lightning_16px.png</file>
+		<file>./misc/lightning_24px.png</file>
+		<file>./misc/lightning_32px.png</file>
+
+		<file>./misc/wrench_16px.png</file>
+		<file>./misc/wrench_24px.png</file>
+		<file>./misc/wrench_32px.png</file>
+	</qresource>
+</RCC>
